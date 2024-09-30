@@ -1,0 +1,28 @@
+.bt{
+    border-radius: 10px;
+    background-color: rgb(59, 56, 0);
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.bt:hover{
+    background-color: black;
+    color: rgb(102, 255, 0);
+}
+
+.in{
+    outline: none;
+    border: none;
+    padding: 6px;
+    border-radius: 10px;
+}
+.int{
+    padding: 6px;
+    cursor: pointer;
+
+}
+
+.typ{
+    padding:0 10px 0 10px;
+    
+    font-size: 14px;
+}
